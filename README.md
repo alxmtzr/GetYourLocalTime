@@ -2,6 +2,8 @@
 
 This is a simple Kotlin Compose Multiplatform application that allows users to select a country and display its local time.
 
+> This is my first attempt building an application wit Kotlin CMPP.
+
 ## Overview
 
 This project is built using [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) and [Jetpack Compose](https://developer.android.com/jetpack/compose), 
@@ -15,3 +17,7 @@ view the current local time for that selected country.
 - Cross-platform support using Kotlin Multiplatform.
 
 This project is from the Tutorial [Create your own application](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-multiplatform-new-project.html) from jetbrains.com.
+
+![img.png](img.png)
+
+![img_1.png](img_1.png)
