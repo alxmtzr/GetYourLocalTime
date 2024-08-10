@@ -4,7 +4,7 @@ This is a simple Kotlin Compose Multiplatform application that allows users to s
 
 ## Overview
 
-This project is built using [Kotlin Multiplatform](https://kotlinlang.org/docs/multiplatform.html) and [Jetpack Compose](https://developer.android.com/jetpack/compose), 
+This project is built using [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) and [Jetpack Compose](https://developer.android.com/jetpack/compose), 
 enabling the app to run on multiple platforms (Android, iOS Desktop) with a single codebase. The app features an interface where users can choose a country from a list and 
 view the current local time for that selected country.
 
